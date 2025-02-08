@@ -21,8 +21,7 @@
 # shape_1 = Shape(10, 20)
 # print(shape_1.area())
 # print(shape_1.perimeter())
-
-
+from bot import handle_button_click
 
 # task 1
 
@@ -130,3 +129,4 @@
 # temp.set_celsius(30)
 # print(temp.get_celsius())
 # print(temp.get_fahrenheit())
+
