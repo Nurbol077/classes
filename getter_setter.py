@@ -128,6 +128,7 @@
 #     def salary(self,value):
 #         if value < 10000:
 #             print("Зарплата не может быть меньше 10 000!")
+#
 #         self.__salary = value
 # class Manager(Employee):
 #     def __init__(self,salary,bonus):
@@ -142,3 +143,5 @@
 # m = Manager(15000,5000)
 # print(m.salary)
 # print(m.bonus)
+
+
